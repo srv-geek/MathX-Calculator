@@ -36,14 +36,13 @@ MathX is a simple and intuitive calculator application built using **Java Swing*
    git clone https://github.com/srv-geek/MathX-Calculator.git
    cd MathX-Calculator
    
-## 📁 Folder Structure
+📁 Folder Structure
+
 MathX-Calculator/
 └── src/
     └── com/
         └── calc/
             └── MathX.java
-
-
 🙌 Author
 Shubham Raj
 
